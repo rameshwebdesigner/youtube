@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+
+@tailwind utilities;
+
+
+.header-ctn {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 56px;
+
+    .hamburger-icon {
+        cursor: pointer;
+    }
+
+    .youtube-logo {
+        margin: 16px;
+        cursor: pointer;
+    }
+}
