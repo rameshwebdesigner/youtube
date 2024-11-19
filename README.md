@@ -7,4 +7,7 @@
 # Router Dom Setup
 - npm i react-router-dom
 
+# React lazy load and buindle the separate file
+- lazy load with Suspense fallback
+
 
